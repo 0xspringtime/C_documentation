@@ -1,0 +1,14 @@
+# Compiled object files
+*.o
+*.ko
+
+# Executables
+a.out
+*.exe
+
+# Build and temporary files
+build/
+temp/
+
+# Dependency directories
+dep/
